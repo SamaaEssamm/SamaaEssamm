@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sama 👋
 
-<!--
-**SamaaEssamm/SamaaEssamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Graduate | Full Stack .NET Developer
 
-Here are some ideas to get you started:
+I'm passionate about building software that solves real-world problems, with a particular interest in Healthcare Technology and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Graduation Project
+
+### Nutq
+A digital speech therapy platform that helps speech therapists monitor patient progress through structured exercises, clinical analytics, and an AI-ready architecture.
+
+### Tech Stack
+
+- ASP.NET Core
+- React
+- TypeScript
+- PostgreSQL
+- Entity Framework Core
+- Tailwind CSS
+
+## 🌱 Currently Learning
+
+- AI for Healthcare
+- DevOps
+- Cloud Computing
+
+## 📫 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/sama-essam-45a9092a5/
+- Email: sama.essam7421@gmail.com
